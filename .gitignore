@@ -16,3 +16,6 @@ hs_err_pid*
 *.factorypath
 *.settings
 *.project
+
+*.ser
+*.txt
