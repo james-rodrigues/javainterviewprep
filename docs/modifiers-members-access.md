@@ -3,7 +3,7 @@
 ```
 package com.in28minutes.java.membermodifiers.access.different;
 
-import com.in28minutes.java.membermodifiers.access.ExampleClass;
+import access.membermodifiers.com.interviewprep.java.ExampleClass;
 
 public class SubClassInDifferentPackage extends ExampleClass {
 
@@ -30,7 +30,7 @@ public class SubClassInDifferentPackage extends ExampleClass {
 ```
 package com.in28minutes.java.membermodifiers.access.different;
 
-import com.in28minutes.java.membermodifiers.access.ExampleClass;
+import access.membermodifiers.com.interviewprep.java.ExampleClass;
 
 public class TestClassInDifferentPackage {
 	public static void main(String[] args) {
